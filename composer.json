@@ -29,6 +29,9 @@
         "symfony/framework-bundle": "^5.4|^6.4|^7.0",
         "symfony/twig-bundle": "^5.4|^6.4|^7.0"
     },
+    "replace": {
+        "nacmartin/phpexecjs": "*"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
